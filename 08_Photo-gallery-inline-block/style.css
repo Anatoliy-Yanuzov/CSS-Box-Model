@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #eeeeee;
+}
+.gallery {
+  margin: 50px 100px;
+}
+.gallery li {
+  border: solid 0.4rem black;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 15px;
+  margin: 12px 8px;
+  width: 30%;
+}
+.gallery li img {
+width: 100%;
+}

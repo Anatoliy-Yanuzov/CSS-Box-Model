@@ -1,0 +1,35 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+body {
+  padding: 50px;
+}
+h1 li nav {
+  display: inline-block;
+}
+li {
+  list-style: none;
+}
+nav {
+  position: relative;
+  left: 85px;
+}
+a {
+  text-decoration: none;
+  font-size: 11px;
+  padding: 10px;
+  color: rgb(55, 170, 95);
+}
+main {
+  border-top: solid 2px;
+}
+h3 {
+  font-family: serif;
+  font-size: 25px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+p {
+  font-size: 11px;
+  line-height: 16px;
+}
